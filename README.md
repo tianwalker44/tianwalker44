@@ -5,6 +5,7 @@
 
 Here are some ideas to get you started:
 
+- ⚡ Fun fact: 
 -->
 
 
@@ -14,5 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with getting my GitHub set up the best way possible
 - 💬 Ask me about diabetes and multi-level analysis of individual heteroscedasticity and discriminatory analysis (MAIHDA)
 - 📫 How to reach me: the best place is tianw@uoregon.edu
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:she/her
+
+
+
